@@ -1,0 +1,10 @@
+/build
+*.ini
+*.blend
+*.blend1
+__pycache__/
+results/
+/bin/models/
+/bin/blender_file/blender
+/bin/sf/sf
+/bin/sg/sg
